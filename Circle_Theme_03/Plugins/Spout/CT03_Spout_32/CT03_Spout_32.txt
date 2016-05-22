@@ -1,0 +1,86 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "CT01",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "XValue",
+			"TYPE": "float",
+			"MIN": 20,
+			"MAX": 250,
+			"DEFAULT": 2
+		},
+		{
+			"NAME": "YValue",
+			"TYPE": "float",
+			"MIN": 20,
+			"MAX": 250,
+			"DEFAULT": 2
+		},
+		{
+			"NAME": "S. Hue",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 360,
+			"DEFAULT": 0
+		},		
+		{
+			"NAME": "S. Saturation",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 100,
+			"DEFAULT": 100
+		},
+		{
+			"NAME": "S. Brightness",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 100,
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "X1 Multiplier",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 10,
+			"DEFAULT": 2
+		},
+		{
+			"NAME": "Y1 Multiplier",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 10,
+			"DEFAULT": 2
+		},
+		{
+			"NAME": "X2 Multiplier",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 10,
+			"DEFAULT": 2
+		},
+		{
+			"NAME": "Y2 Multiplier",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 10,
+			"DEFAULT": 2
+		},
+		{
+			"NAME": "Scale",
+			"TYPE": "float",
+			"MIN": 0.1,
+			"MAX": 5,
+			"DEFAULT": 1.5
+		},
+		{
+			"NAME": "Stroke Weight",
+			"TYPE": "float",
+			"MIN": 0.1,
+			"MAX": 5,
+			"DEFAULT": 1.2
+		},
+	],
+}*/

@@ -1,0 +1,51 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "CT01",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "Lower Range",
+			"TYPE": "float",
+			"MIN": 2,
+			"MAX": 35,
+			"DEFAULT": 2
+		},
+		{
+			"NAME": "Upper Range",
+			"TYPE": "float",
+			"MIN": 2,
+			"MAX": 35,
+			"DEFAULT": 8
+		},
+		{
+			"NAME": "Valeur Max T",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 1000,
+			"DEFAULT": 350
+		},		
+		{
+			"NAME": "Stroke Weight",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 30,
+			"DEFAULT": 3
+		},
+		{
+			"NAME": "Time",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 1000,
+			"DEFAULT": 600
+		},
+		{
+			"NAME": "Swapping Time",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 25,
+			"DEFAULT": 5
+		},
+	],
+}*/
