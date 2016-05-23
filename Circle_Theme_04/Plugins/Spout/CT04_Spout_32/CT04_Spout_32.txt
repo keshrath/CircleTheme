@@ -1,0 +1,58 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "CT01_Spout_64",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "B. Hue",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 360,
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "B. Saturation",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 100,
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "B. Brightness",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 100,
+			"DEFAULT": 0
+		},		
+		{
+			"NAME": "F. Hue",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 360,
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "F. Saturation",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 100,
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "F. Brightness",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 100,
+			"DEFAULT": 100
+		},
+		{
+			"NAME": "Radius",
+			"TYPE": "float",
+			"MIN": 25,
+			"MAX": 300,
+			"DEFAULT": 120
+		},
+	],
+}*/
