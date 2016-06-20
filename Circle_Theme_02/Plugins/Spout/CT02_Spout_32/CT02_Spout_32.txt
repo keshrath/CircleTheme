@@ -1,6 +1,6 @@
 /*{
 	"CREDIT": "Mathias Markl",
-	"DESCRIPTION": "CT01",
+	"DESCRIPTION": "CT02",
 	"CATEGORIES": [
 	"Parameter adjustment"
 	],

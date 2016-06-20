@@ -1,0 +1,47 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "CT05",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "Mode",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 6,
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Circles",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 17,
+			"DEFAULT": 5
+		},
+		{
+			"NAME": "Spacing",
+			"TYPE": "float",
+			"MIN": 10,
+			"MAX": 100,
+			"DEFAULT": 50
+		},		
+		{
+			"NAME": "Stroke Weight",
+			"TYPE": "float",
+			"MIN": 0.5,
+			"MAX": 10,
+			"DEFAULT": 1.5
+		},
+		{
+			"NAME": "Middle Point",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Show Points",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+	],
+}*/
