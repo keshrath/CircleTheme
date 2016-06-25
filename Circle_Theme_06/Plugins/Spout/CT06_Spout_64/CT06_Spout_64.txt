@@ -1,0 +1,44 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "CT06",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "Min Size",
+			"TYPE": "float",
+			"MIN": 0,
+			"MAX": 300,
+			"DEFAULT": 60
+		},
+		{
+			"NAME": "Max Size",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 600,
+			"DEFAULT": 200
+		},
+		{
+			"NAME": "Spacing",
+			"TYPE": "float",
+			"MIN": 1,
+			"MAX": 400,
+			"DEFAULT": 70
+		},		
+		{
+			"NAME": "Stroke Weight",
+			"TYPE": "float",
+			"MIN": 0.5,
+			"MAX": 10,
+			"DEFAULT": 1.5
+		},
+		{
+			"NAME": "Blur",
+			"TYPE": "float",
+			"MIN": 5,
+			"MAX": 255,
+			"DEFAULT": 30
+		},
+	],
+}*/
